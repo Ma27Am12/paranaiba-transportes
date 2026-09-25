@@ -1,0 +1,1001 @@
+,id_entrega,Produtos,Data_da_entrega,Status,Destino,Distância_km,Custo,Faturamento
+0,1,milho,2025-08-18,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+1,2,eletrônicos,2025-06-02,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+2,3,Disel,2024-08-20,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+3,4,Gasolina,2020-12-23,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+4,5,Gasolina,2024-10-25,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+5,6,café,2024-06-16,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+6,7,Gasolina,2025-12-20,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+7,8,café,2022-09-03,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+8,9,eletrônicos,2022-06-19,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+9,10,glp,2024-11-07,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+10,11,Gasolina,2021-10-10,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+11,12,soja,2025-03-31,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+12,13,café,2025-08-08,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+13,14,eletrônicos,2025-10-27,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+14,15,eletrônicos,2025-03-16,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+15,16,eletrônicos,2022-07-03,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+16,17,eletrônicos,2022-08-21,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+17,18,café,2022-01-29,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+18,19,milho,2021-08-22,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+19,20,soja,2022-10-18,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+20,21,Disel,2020-08-29,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+21,22,Queijo,2021-12-06,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+22,23,café,2025-04-15,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+23,24,glp,2022-11-27,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+24,25,Carnes,2021-04-17,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+25,26,Disel,2023-10-03,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+26,27,café,2023-12-27,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+27,28,café,2025-05-10,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+28,29,Carnes,2020-02-03,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+29,30,Disel,2025-06-03,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+30,31,eletrônicos,2025-12-29,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+31,32,glp,2022-02-11,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+32,33,Gasolina,2024-11-08,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+33,34,Carnes,2024-09-30,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+34,35,café,2025-03-12,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+35,36,glp,2025-06-30,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+36,37,Queijo,2025-05-25,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+37,38,soja,2023-09-11,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+38,39,café,2023-08-25,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+39,40,Carnes,2022-10-25,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+40,41,milho,2025-02-12,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+41,42,Carnes,2021-10-08,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+42,43,milho,2025-10-28,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+43,44,Disel,2024-07-23,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+44,45,glp,2022-12-12,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+45,46,Carnes,2020-10-24,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+46,47,soja,2024-02-28,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+47,48,Carnes,2020-10-12,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+48,49,Disel,2022-11-02,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+49,50,soja,2022-09-18,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+50,51,Gasolina,2024-08-25,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+51,52,eletrônicos,2025-04-17,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+52,53,soja,2021-02-12,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+53,54,Queijo,2025-12-05,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+54,55,milho,2021-10-12,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+55,56,Disel,2023-03-06,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+56,57,café,2024-07-04,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+57,58,Queijo,2024-03-10,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+58,59,Carnes,2025-12-18,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+59,60,soja,2022-07-31,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+60,61,soja,2023-06-14,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+61,62,milho,2022-06-07,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+62,63,soja,2023-03-02,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+63,64,Carnes,2021-02-15,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+64,65,milho,2022-09-15,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+65,66,milho,2024-09-13,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+66,67,café,2022-04-19,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+67,68,glp,2021-01-26,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+68,69,eletrônicos,2024-04-06,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+69,70,Gasolina,2022-06-10,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+70,71,milho,2024-09-21,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+71,72,eletrônicos,2024-04-21,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+72,73,eletrônicos,2025-03-08,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+73,74,Gasolina,2023-01-15,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+74,75,Queijo,2025-06-08,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+75,76,eletrônicos,2023-12-17,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+76,77,café,2025-04-12,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+77,78,glp,2020-02-28,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+78,79,café,2021-08-19,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+79,80,Disel,2021-02-26,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+80,81,soja,2025-02-28,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+81,82,café,2025-11-22,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+82,83,Gasolina,2022-04-09,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+83,84,Disel,2021-05-07,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+84,85,milho,2021-03-22,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+85,86,milho,2021-11-12,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+86,87,Disel,2023-07-02,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+87,88,glp,2024-04-26,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+88,89,milho,2024-04-23,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+89,90,café,2025-03-26,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+90,91,Gasolina,2020-10-01,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+91,92,Carnes,2025-03-21,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+92,93,glp,2021-11-27,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+93,94,glp,2025-08-04,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+94,95,Gasolina,2024-03-13,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+95,96,Queijo,2022-05-08,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+96,97,glp,2022-12-27,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+97,98,Gasolina,2025-03-10,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+98,99,milho,2020-03-18,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+99,100,Gasolina,2022-07-14,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+100,101,milho,2024-09-16,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+101,102,eletrônicos,2020-12-18,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+102,103,café,2023-10-29,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+103,104,soja,2022-04-11,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+104,105,Disel,2023-02-10,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+105,106,Gasolina,2022-06-26,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+106,107,glp,2022-02-21,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+107,108,Disel,2022-02-11,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+108,109,soja,2022-03-19,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+109,110,eletrônicos,2021-10-13,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+110,111,eletrônicos,2024-10-02,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+111,112,Carnes,2022-01-27,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+112,113,glp,2023-09-08,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+113,114,milho,2024-12-06,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+114,115,soja,2020-12-12,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+115,116,Carnes,2022-12-30,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+116,117,glp,2021-04-29,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+117,118,Gasolina,2021-05-30,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+118,119,Carnes,2023-05-13,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+119,120,Queijo,2022-06-30,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+120,121,Queijo,2022-04-16,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+121,122,Gasolina,2020-01-29,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+122,123,Gasolina,2025-02-27,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+123,124,café,2022-07-04,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+124,125,soja,2024-07-27,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+125,126,Carnes,2022-03-25,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+126,127,Gasolina,2022-07-11,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+127,128,Queijo,2023-07-08,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+128,129,milho,2024-12-29,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+129,130,soja,2022-01-20,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+130,131,eletrônicos,2025-02-06,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+131,132,eletrônicos,2023-05-03,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+132,133,Disel,2023-08-09,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+133,134,Disel,2020-08-30,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+134,135,Disel,2024-06-17,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+135,136,Carnes,2024-02-02,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+136,137,café,2023-01-22,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+137,138,glp,2020-08-22,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+138,139,Queijo,2025-03-26,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+139,140,glp,2024-04-25,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+140,141,Queijo,2023-10-29,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+141,142,eletrônicos,2022-08-12,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+142,143,glp,2025-06-29,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+143,144,soja,2022-02-13,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+144,145,glp,2020-02-11,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+145,146,eletrônicos,2022-02-15,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+146,147,soja,2022-03-20,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+147,148,Carnes,2025-02-22,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+148,149,Gasolina,2023-06-26,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+149,150,Disel,2023-08-05,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+150,151,eletrônicos,2023-07-15,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+151,152,eletrônicos,2025-11-26,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+152,153,Disel,2023-07-22,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+153,154,Gasolina,2020-05-04,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+154,155,glp,2025-09-21,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+155,156,Carnes,2025-09-11,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+156,157,soja,2020-07-04,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+157,158,milho,2023-02-23,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+158,159,Gasolina,2020-02-01,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+159,160,Carnes,2024-02-10,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+160,161,Queijo,2022-04-01,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+161,162,eletrônicos,2025-09-19,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+162,163,Queijo,2020-03-20,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+163,164,Gasolina,2021-06-04,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+164,165,Gasolina,2024-01-15,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+165,166,café,2021-06-21,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+166,167,soja,2024-12-04,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+167,168,Disel,2020-11-23,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+168,169,glp,2025-09-23,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+169,170,glp,2022-07-08,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+170,171,soja,2021-12-03,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+171,172,Gasolina,2024-05-10,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+172,173,Queijo,2025-06-01,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+173,174,Disel,2025-02-25,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+174,175,glp,2021-07-21,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+175,176,Carnes,2020-08-28,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+176,177,milho,2020-06-16,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+177,178,Queijo,2025-08-10,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+178,179,glp,2023-03-28,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+179,180,milho,2025-03-24,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+180,181,café,2021-02-24,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+181,182,café,2021-07-15,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+182,183,Carnes,2021-03-18,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+183,184,Queijo,2021-09-19,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+184,185,soja,2022-06-28,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+185,186,eletrônicos,2025-04-21,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+186,187,café,2021-05-12,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+187,188,Carnes,2024-04-08,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+188,189,soja,2024-05-06,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+189,190,glp,2020-02-25,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+190,191,Queijo,2022-05-05,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+191,192,eletrônicos,2024-02-04,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+192,193,eletrônicos,2022-04-05,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+193,194,eletrônicos,2022-01-31,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+194,195,Carnes,2020-11-24,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+195,196,Queijo,2022-07-10,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+196,197,café,2021-09-12,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+197,198,Gasolina,2024-07-26,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+198,199,soja,2021-04-06,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+199,200,Queijo,2021-06-19,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+200,201,Carnes,2021-07-19,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+201,202,café,2020-12-19,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+202,203,soja,2021-12-24,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+203,204,café,2022-03-21,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+204,205,soja,2025-04-30,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+205,206,Disel,2022-04-27,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+206,207,Gasolina,2020-11-02,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+207,208,eletrônicos,2020-05-20,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+208,209,Gasolina,2020-09-09,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+209,210,Disel,2024-04-29,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+210,211,soja,2024-12-31,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+211,212,eletrônicos,2025-02-16,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+212,213,Disel,2025-06-16,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+213,214,soja,2022-11-04,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+214,215,glp,2025-08-15,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+215,216,Disel,2021-02-17,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+216,217,glp,2021-03-31,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+217,218,soja,2020-01-07,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+218,219,Carnes,2025-07-05,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+219,220,soja,2025-02-11,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+220,221,milho,2022-01-16,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+221,222,Queijo,2021-05-17,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+222,223,Gasolina,2025-08-12,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+223,224,glp,2025-08-12,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+224,225,Disel,2022-01-23,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+225,226,milho,2025-10-30,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+226,227,glp,2020-05-10,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+227,228,Disel,2025-04-25,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+228,229,Carnes,2023-05-29,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+229,230,Gasolina,2024-03-17,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+230,231,soja,2020-06-15,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+231,232,Gasolina,2021-06-18,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+232,233,glp,2025-05-08,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+233,234,café,2022-09-20,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+234,235,Gasolina,2020-04-14,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+235,236,milho,2021-12-13,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+236,237,café,2024-05-05,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+237,238,eletrônicos,2024-07-09,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+238,239,soja,2024-10-08,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+239,240,soja,2021-03-23,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+240,241,glp,2022-09-13,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+241,242,café,2020-06-13,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+242,243,glp,2020-11-26,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+243,244,Queijo,2022-06-07,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+244,245,milho,2022-05-17,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+245,246,glp,2025-09-02,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+246,247,milho,2024-06-26,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+247,248,milho,2022-06-08,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+248,249,milho,2023-12-29,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+249,250,Gasolina,2021-12-29,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+250,251,Disel,2022-05-09,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+251,252,milho,2020-04-01,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+252,253,glp,2020-12-12,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+253,254,soja,2025-06-28,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+254,255,café,2024-02-11,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+255,256,glp,2024-03-21,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+256,257,Gasolina,2020-06-26,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+257,258,Carnes,2022-05-18,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+258,259,eletrônicos,2021-09-05,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+259,260,Carnes,2025-02-28,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+260,261,Gasolina,2024-08-17,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+261,262,glp,2024-01-23,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+262,263,Carnes,2023-05-05,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+263,264,Queijo,2024-07-25,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+264,265,eletrônicos,2025-02-15,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+265,266,glp,2024-03-19,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+266,267,milho,2020-10-14,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+267,268,café,2020-07-23,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+268,269,eletrônicos,2024-02-28,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+269,270,Disel,2025-09-16,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+270,271,Carnes,2021-03-11,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+271,272,Disel,2020-06-07,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+272,273,milho,2025-10-12,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+273,274,Disel,2024-04-28,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+274,275,Disel,2021-07-23,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+275,276,Carnes,2023-04-08,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+276,277,Queijo,2024-11-04,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+277,278,Carnes,2020-05-27,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+278,279,soja,2021-11-08,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+279,280,café,2023-05-03,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+280,281,café,2020-01-18,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+281,282,Queijo,2021-09-01,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+282,283,glp,2020-05-02,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+283,284,Disel,2024-06-07,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+284,285,soja,2020-08-20,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+285,286,milho,2020-06-06,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+286,287,Gasolina,2022-02-09,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+287,288,Disel,2020-08-06,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+288,289,milho,2023-10-10,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+289,290,eletrônicos,2024-09-01,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+290,291,Gasolina,2022-11-01,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+291,292,glp,2020-11-21,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+292,293,Queijo,2022-10-06,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+293,294,Queijo,2021-04-03,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+294,295,milho,2025-04-01,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+295,296,Queijo,2020-10-02,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+296,297,Gasolina,2020-07-23,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+297,298,Queijo,2023-11-12,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+298,299,Gasolina,2021-04-24,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+299,300,milho,2020-11-18,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+300,301,café,2020-04-08,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+301,302,Gasolina,2021-11-20,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+302,303,Gasolina,2024-11-19,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+303,304,café,2024-10-22,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+304,305,Carnes,2025-01-30,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+305,306,milho,2023-06-13,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+306,307,eletrônicos,2020-04-05,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+307,308,café,2021-10-11,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+308,309,Carnes,2020-07-23,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+309,310,Gasolina,2025-11-03,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+310,311,milho,2022-03-02,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+311,312,café,2021-04-03,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+312,313,café,2023-07-23,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+313,314,Carnes,2020-08-01,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+314,315,soja,2023-09-15,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+315,316,Carnes,2020-07-26,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+316,317,glp,2020-05-27,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+317,318,café,2022-10-26,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+318,319,Carnes,2021-09-08,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+319,320,Gasolina,2023-12-29,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+320,321,eletrônicos,2023-08-26,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+321,322,eletrônicos,2023-01-30,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+322,323,Gasolina,2025-12-21,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+323,324,Gasolina,2024-01-15,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+324,325,Carnes,2024-06-05,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+325,326,Gasolina,2024-02-05,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+326,327,soja,2024-11-26,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+327,328,milho,2023-04-21,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+328,329,Disel,2023-08-18,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+329,330,soja,2024-01-11,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+330,331,Gasolina,2020-11-01,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+331,332,Gasolina,2025-02-18,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+332,333,soja,2021-11-17,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+333,334,café,2022-06-18,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+334,335,soja,2025-05-13,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+335,336,Gasolina,2020-12-31,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+336,337,milho,2020-05-19,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+337,338,milho,2020-03-15,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+338,339,Queijo,2024-12-07,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+339,340,milho,2024-12-03,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+340,341,Disel,2021-12-07,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+341,342,Gasolina,2023-01-06,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+342,343,soja,2020-04-14,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+343,344,Carnes,2024-01-26,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+344,345,Carnes,2021-01-08,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+345,346,glp,2021-04-27,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+346,347,soja,2021-10-29,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+347,348,Disel,2023-09-20,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+348,349,eletrônicos,2021-02-10,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+349,350,Gasolina,2021-05-02,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+350,351,soja,2020-04-29,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+351,352,Queijo,2021-08-15,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+352,353,Gasolina,2024-02-12,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+353,354,milho,2022-11-01,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+354,355,Gasolina,2022-02-27,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+355,356,soja,2020-10-31,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+356,357,Queijo,2021-10-30,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+357,358,Disel,2022-06-07,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+358,359,milho,2024-02-19,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+359,360,eletrônicos,2023-01-16,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+360,361,eletrônicos,2020-04-25,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+361,362,milho,2020-12-04,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+362,363,Queijo,2022-03-19,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+363,364,café,2021-03-09,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+364,365,soja,2023-07-11,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+365,366,eletrônicos,2024-02-01,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+366,367,soja,2021-09-11,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+367,368,Carnes,2022-05-22,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+368,369,Carnes,2022-04-23,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+369,370,café,2024-08-18,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+370,371,glp,2024-05-20,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+371,372,Carnes,2021-01-21,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+372,373,Disel,2023-10-29,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+373,374,milho,2020-04-19,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+374,375,glp,2025-04-30,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+375,376,milho,2020-08-25,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+376,377,Carnes,2020-04-21,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+377,378,café,2025-02-04,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+378,379,Gasolina,2021-09-16,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+379,380,soja,2020-02-03,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+380,381,Gasolina,2021-03-27,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+381,382,Carnes,2020-12-10,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+382,383,soja,2020-06-01,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+383,384,glp,2020-08-16,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+384,385,soja,2023-03-18,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+385,386,soja,2022-04-19,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+386,387,glp,2025-03-19,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+387,388,Disel,2025-02-19,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+388,389,eletrônicos,2022-03-09,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+389,390,soja,2022-09-02,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+390,391,Carnes,2025-08-15,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+391,392,Disel,2022-09-24,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+392,393,soja,2020-01-04,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+393,394,Queijo,2023-02-10,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+394,395,glp,2025-07-06,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+395,396,Carnes,2021-01-12,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+396,397,Disel,2022-12-12,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+397,398,Gasolina,2024-02-11,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+398,399,Gasolina,2021-05-27,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+399,400,soja,2024-08-16,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+400,401,Carnes,2024-12-12,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+401,402,Gasolina,2021-09-10,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+402,403,soja,2023-06-09,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+403,404,café,2021-12-25,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+404,405,Gasolina,2023-05-08,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+405,406,eletrônicos,2021-02-26,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+406,407,Gasolina,2020-10-10,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+407,408,Queijo,2020-12-01,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+408,409,soja,2022-12-30,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+409,410,café,2022-08-01,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+410,411,Disel,2024-05-07,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+411,412,eletrônicos,2020-02-15,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+412,413,soja,2022-07-06,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+413,414,Gasolina,2020-04-24,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+414,415,Queijo,2024-12-17,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+415,416,eletrônicos,2020-07-13,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+416,417,milho,2025-06-27,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+417,418,eletrônicos,2020-07-21,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+418,419,Carnes,2020-08-21,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+419,420,Queijo,2025-07-07,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+420,421,soja,2023-01-20,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+421,422,glp,2024-07-01,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+422,423,milho,2024-03-09,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+423,424,Carnes,2020-07-13,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+424,425,eletrônicos,2025-05-03,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+425,426,café,2021-09-16,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+426,427,Carnes,2023-11-18,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+427,428,milho,2020-07-15,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+428,429,glp,2025-06-09,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+429,430,Carnes,2023-06-01,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+430,431,Carnes,2020-08-23,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+431,432,Gasolina,2021-10-29,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+432,433,Disel,2021-12-03,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+433,434,café,2023-04-11,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+434,435,glp,2020-03-11,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+435,436,Carnes,2021-05-26,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+436,437,Carnes,2023-05-19,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+437,438,café,2022-10-26,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+438,439,milho,2025-01-25,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+439,440,Queijo,2023-11-29,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+440,441,soja,2025-10-12,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+441,442,glp,2025-10-03,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+442,443,glp,2021-04-01,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+443,444,milho,2023-09-27,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+444,445,Gasolina,2022-02-02,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+445,446,Queijo,2020-11-13,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+446,447,Carnes,2023-07-25,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+447,448,café,2021-03-21,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+448,449,Disel,2024-01-15,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+449,450,Carnes,2021-04-04,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+450,451,soja,2022-02-19,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+451,452,Gasolina,2021-02-10,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+452,453,café,2025-10-21,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+453,454,glp,2024-03-23,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+454,455,café,2025-03-23,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+455,456,Disel,2020-06-11,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+456,457,glp,2023-12-16,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+457,458,café,2022-01-09,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+458,459,Gasolina,2025-12-05,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+459,460,café,2023-06-25,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+460,461,soja,2024-06-14,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+461,462,Carnes,2021-09-21,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+462,463,Carnes,2025-10-17,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+463,464,Queijo,2023-01-11,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+464,465,café,2025-04-08,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+465,466,café,2020-07-08,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+466,467,milho,2022-08-02,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+467,468,Disel,2024-09-05,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+468,469,eletrônicos,2020-08-07,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+469,470,Queijo,2021-09-08,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+470,471,eletrônicos,2025-07-16,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+471,472,Disel,2020-12-24,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+472,473,café,2021-02-06,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+473,474,Disel,2024-07-08,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+474,475,milho,2022-04-29,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+475,476,café,2024-02-15,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+476,477,soja,2022-05-09,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+477,478,Carnes,2022-06-29,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+478,479,café,2022-08-04,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+479,480,Disel,2020-11-05,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+480,481,milho,2021-08-17,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+481,482,soja,2023-11-15,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+482,483,Queijo,2025-08-20,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+483,484,glp,2023-05-31,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+484,485,Carnes,2021-04-08,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+485,486,Gasolina,2023-02-05,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+486,487,Disel,2023-04-21,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+487,488,soja,2021-07-01,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+488,489,milho,2021-11-11,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+489,490,Queijo,2024-07-23,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+490,491,milho,2024-10-30,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+491,492,Gasolina,2021-12-07,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+492,493,eletrônicos,2022-08-08,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+493,494,eletrônicos,2023-07-19,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+494,495,Carnes,2022-02-10,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+495,496,milho,2025-07-11,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+496,497,café,2023-01-14,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+497,498,café,2020-07-25,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+498,499,glp,2022-06-22,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+499,500,glp,2024-01-01,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+500,501,soja,2023-10-08,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+501,502,Gasolina,2024-06-03,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+502,503,Gasolina,2022-09-28,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+503,504,Queijo,2022-10-10,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+504,505,Carnes,2020-03-05,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+505,506,Gasolina,2022-03-15,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+506,507,eletrônicos,2022-09-28,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+507,508,Gasolina,2023-03-24,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+508,509,milho,2024-03-07,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+509,510,Queijo,2025-05-11,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+510,511,Carnes,2025-06-01,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+511,512,Disel,2025-12-11,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+512,513,eletrônicos,2022-10-30,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+513,514,Carnes,2023-12-10,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+514,515,café,2021-04-01,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+515,516,glp,2025-06-02,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+516,517,Queijo,2023-07-16,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+517,518,milho,2025-02-17,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+518,519,Queijo,2025-01-16,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+519,520,café,2024-08-30,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+520,521,Queijo,2023-02-27,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+521,522,glp,2021-11-08,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+522,523,café,2024-12-27,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+523,524,Carnes,2021-02-03,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+524,525,Carnes,2022-05-28,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+525,526,Carnes,2025-03-29,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+526,527,Gasolina,2025-12-03,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+527,528,soja,2024-03-13,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+528,529,glp,2023-09-25,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+529,530,Carnes,2023-11-25,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+530,531,soja,2023-11-10,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+531,532,milho,2022-03-23,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+532,533,eletrônicos,2024-02-09,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+533,534,Queijo,2025-06-23,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+534,535,milho,2024-10-15,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+535,536,milho,2021-05-27,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+536,537,soja,2020-08-07,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+537,538,milho,2025-07-20,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+538,539,soja,2021-05-29,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+539,540,Gasolina,2025-02-25,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+540,541,soja,2024-01-09,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+541,542,soja,2022-12-15,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+542,543,Gasolina,2023-12-02,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+543,544,Gasolina,2020-01-07,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+544,545,glp,2022-08-15,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+545,546,Gasolina,2025-12-01,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+546,547,milho,2025-07-21,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+547,548,café,2021-01-30,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+548,549,Carnes,2025-01-20,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+549,550,Gasolina,2024-04-30,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+550,551,milho,2025-03-03,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+551,552,milho,2024-10-14,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+552,553,Carnes,2023-10-31,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+553,554,eletrônicos,2024-09-20,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+554,555,glp,2022-08-29,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+555,556,café,2020-11-18,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+556,557,Gasolina,2020-07-28,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+557,558,Queijo,2025-02-05,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+558,559,café,2025-07-30,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+559,560,Carnes,2021-08-08,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+560,561,glp,2023-08-23,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+561,562,milho,2020-07-08,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+562,563,café,2022-02-13,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+563,564,glp,2023-02-18,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+564,565,Disel,2020-06-13,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+565,566,Carnes,2023-06-20,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+566,567,glp,2025-09-04,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+567,568,eletrônicos,2021-02-24,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+568,569,Queijo,2023-01-06,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+569,570,Gasolina,2024-03-23,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+570,571,milho,2025-03-22,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+571,572,Carnes,2020-03-07,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+572,573,soja,2021-12-03,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+573,574,eletrônicos,2022-11-10,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+574,575,glp,2022-09-17,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+575,576,glp,2021-05-22,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+576,577,Queijo,2025-05-02,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+577,578,soja,2020-01-20,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+578,579,soja,2020-12-22,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+579,580,Carnes,2021-05-23,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+580,581,glp,2022-07-31,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+581,582,Gasolina,2025-05-06,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+582,583,glp,2020-07-30,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+583,584,eletrônicos,2022-05-25,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+584,585,soja,2020-09-03,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+585,586,eletrônicos,2021-06-27,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+586,587,Disel,2025-08-28,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+587,588,Gasolina,2021-11-02,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+588,589,glp,2025-01-16,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+589,590,glp,2024-08-29,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+590,591,soja,2022-06-05,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+591,592,eletrônicos,2020-01-24,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+592,593,glp,2024-08-18,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+593,594,café,2022-05-09,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+594,595,milho,2025-09-19,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+595,596,soja,2022-06-06,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+596,597,eletrônicos,2024-03-15,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+597,598,glp,2025-01-21,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+598,599,café,2025-10-03,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+599,600,Gasolina,2024-10-20,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+600,601,glp,2024-06-28,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+601,602,café,2020-11-25,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+602,603,milho,2022-04-21,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+603,604,Disel,2020-06-27,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+604,605,café,2021-11-10,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+605,606,café,2020-02-21,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+606,607,milho,2021-12-29,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+607,608,café,2024-11-15,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+608,609,Queijo,2022-07-13,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+609,610,Queijo,2020-10-30,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+610,611,Carnes,2020-08-10,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+611,612,Carnes,2022-07-27,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+612,613,Carnes,2025-09-16,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+613,614,Carnes,2023-10-14,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+614,615,Gasolina,2021-11-25,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+615,616,glp,2025-04-09,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+616,617,Gasolina,2025-12-06,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+617,618,soja,2024-06-01,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+618,619,Queijo,2024-12-17,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+619,620,Carnes,2024-01-13,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+620,621,Carnes,2021-01-26,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+621,622,milho,2023-05-26,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+622,623,milho,2024-10-14,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+623,624,Gasolina,2022-03-01,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+624,625,Queijo,2021-05-09,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+625,626,eletrônicos,2021-02-06,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+626,627,soja,2021-06-01,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+627,628,glp,2025-09-01,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+628,629,café,2021-07-18,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+629,630,milho,2021-05-13,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+630,631,Disel,2025-01-08,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+631,632,Carnes,2024-07-09,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+632,633,eletrônicos,2021-01-05,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+633,634,Carnes,2022-01-15,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+634,635,Gasolina,2024-11-13,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+635,636,milho,2023-05-31,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+636,637,milho,2024-01-09,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+637,638,milho,2021-11-29,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+638,639,Gasolina,2024-06-02,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+639,640,Queijo,2025-03-23,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+640,641,glp,2024-03-03,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+641,642,Gasolina,2022-10-19,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+642,643,café,2021-07-09,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+643,644,Queijo,2025-08-09,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+644,645,Gasolina,2025-01-03,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+645,646,Gasolina,2025-07-28,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+646,647,eletrônicos,2024-01-21,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+647,648,Disel,2021-07-27,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+648,649,Queijo,2023-08-05,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+649,650,soja,2023-07-22,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+650,651,Disel,2023-12-27,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+651,652,Disel,2022-05-12,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+652,653,eletrônicos,2020-12-19,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+653,654,Gasolina,2023-04-05,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+654,655,soja,2021-09-27,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+655,656,Gasolina,2022-01-30,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+656,657,Queijo,2020-03-31,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+657,658,milho,2025-12-19,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+658,659,café,2021-12-20,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+659,660,café,2024-06-01,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+660,661,Disel,2020-07-31,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+661,662,milho,2024-05-08,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+662,663,Gasolina,2024-05-23,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+663,664,Queijo,2025-10-24,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+664,665,milho,2020-05-11,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+665,666,milho,2020-03-02,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+666,667,Carnes,2023-12-12,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+667,668,glp,2023-02-20,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+668,669,soja,2022-07-08,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+669,670,café,2023-05-27,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+670,671,glp,2020-07-17,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+671,672,Queijo,2024-11-18,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+672,673,Disel,2020-03-20,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+673,674,café,2022-08-19,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+674,675,Disel,2021-10-18,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+675,676,Disel,2021-02-16,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+676,677,eletrônicos,2020-03-04,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+677,678,Carnes,2024-04-12,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+678,679,Disel,2020-07-18,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+679,680,Carnes,2024-04-20,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+680,681,Carnes,2021-11-06,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+681,682,Carnes,2023-04-22,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+682,683,Disel,2021-10-13,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+683,684,glp,2021-10-10,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+684,685,soja,2021-03-21,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+685,686,Carnes,2020-11-26,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+686,687,Carnes,2021-02-15,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+687,688,Disel,2020-12-13,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+688,689,glp,2024-09-16,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+689,690,Gasolina,2022-09-30,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+690,691,Disel,2021-08-02,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+691,692,Gasolina,2021-01-14,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+692,693,soja,2022-11-02,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+693,694,eletrônicos,2025-03-04,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+694,695,soja,2025-02-16,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+695,696,soja,2025-10-16,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+696,697,Disel,2023-10-19,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+697,698,milho,2024-01-28,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+698,699,Carnes,2021-05-01,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+699,700,Disel,2022-02-08,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+700,701,Carnes,2021-02-20,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+701,702,Disel,2020-12-01,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+702,703,glp,2025-09-21,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+703,704,eletrônicos,2023-05-15,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+704,705,milho,2021-07-09,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+705,706,Gasolina,2021-02-20,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+706,707,milho,2021-12-05,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+707,708,Disel,2020-03-18,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+708,709,Disel,2023-10-14,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+709,710,Disel,2021-03-01,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+710,711,milho,2020-04-16,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+711,712,milho,2024-05-19,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+712,713,Queijo,2024-11-21,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+713,714,Gasolina,2024-02-01,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+714,715,Queijo,2022-07-21,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+715,716,glp,2021-03-30,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+716,717,Disel,2022-06-11,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+717,718,milho,2022-02-26,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+718,719,Disel,2022-10-22,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+719,720,Gasolina,2020-04-12,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+720,721,Gasolina,2025-12-29,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+721,722,glp,2021-10-01,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+722,723,café,2024-01-16,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+723,724,café,2022-03-20,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+724,725,Disel,2024-01-29,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+725,726,Gasolina,2025-11-16,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+726,727,soja,2022-04-11,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+727,728,Queijo,2023-05-01,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+728,729,Disel,2021-05-26,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+729,730,Gasolina,2020-06-11,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+730,731,glp,2024-09-15,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+731,732,Carnes,2020-12-15,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+732,733,café,2025-06-15,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+733,734,milho,2021-06-30,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+734,735,soja,2022-03-12,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+735,736,Gasolina,2021-02-15,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+736,737,eletrônicos,2025-08-26,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+737,738,Carnes,2022-09-30,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+738,739,café,2025-09-07,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+739,740,glp,2025-07-02,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+740,741,Carnes,2022-01-10,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+741,742,milho,2022-05-29,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+742,743,café,2021-10-16,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+743,744,Disel,2022-07-01,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+744,745,glp,2022-09-02,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+745,746,milho,2022-11-29,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+746,747,soja,2025-07-30,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+747,748,glp,2023-03-11,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+748,749,Disel,2025-09-12,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+749,750,Gasolina,2023-01-15,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+750,751,eletrônicos,2021-08-03,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+751,752,soja,2021-11-29,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+752,753,soja,2022-12-01,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+753,754,eletrônicos,2025-11-07,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+754,755,glp,2023-10-31,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+755,756,Disel,2024-07-26,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+756,757,Queijo,2020-11-20,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+757,758,milho,2024-06-29,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+758,759,soja,2021-05-29,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+759,760,glp,2020-06-26,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+760,761,glp,2021-02-19,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+761,762,glp,2020-07-29,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+762,763,Gasolina,2022-12-06,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+763,764,Gasolina,2023-02-12,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+764,765,Gasolina,2025-09-04,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+765,766,eletrônicos,2025-12-03,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+766,767,Disel,2023-04-21,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+767,768,soja,2022-02-03,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+768,769,Disel,2023-03-19,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+769,770,Queijo,2024-04-25,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+770,771,Disel,2021-11-22,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+771,772,café,2023-02-24,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+772,773,café,2020-10-22,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+773,774,café,2022-02-16,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+774,775,glp,2024-11-12,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+775,776,Disel,2024-03-01,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+776,777,milho,2024-12-15,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+777,778,Carnes,2024-10-23,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+778,779,eletrônicos,2020-09-29,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+779,780,café,2022-01-05,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+780,781,eletrônicos,2021-02-27,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+781,782,Queijo,2022-06-04,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+782,783,glp,2025-08-24,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+783,784,glp,2021-06-05,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+784,785,Gasolina,2023-08-21,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+785,786,Queijo,2021-09-12,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+786,787,soja,2022-04-25,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+787,788,soja,2021-01-21,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+788,789,Gasolina,2025-10-24,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+789,790,glp,2024-11-17,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+790,791,milho,2025-04-09,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+791,792,eletrônicos,2022-02-23,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+792,793,Queijo,2025-03-20,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+793,794,milho,2022-09-17,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+794,795,glp,2025-01-25,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+795,796,Gasolina,2021-08-25,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+796,797,Queijo,2023-01-13,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+797,798,glp,2023-12-13,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+798,799,glp,2022-05-09,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+799,800,café,2024-04-28,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+800,801,soja,2021-04-29,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+801,802,glp,2022-02-16,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+802,803,glp,2023-06-22,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+803,804,soja,2023-10-15,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+804,805,Gasolina,2020-06-01,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+805,806,milho,2025-09-19,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+806,807,Queijo,2025-01-17,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+807,808,café,2025-01-05,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+808,809,Queijo,2023-09-03,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+809,810,Queijo,2022-12-27,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+810,811,Carnes,2020-10-11,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+811,812,milho,2023-10-29,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+812,813,eletrônicos,2023-09-02,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+813,814,Gasolina,2020-05-23,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+814,815,glp,2024-03-11,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+815,816,Gasolina,2025-03-16,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+816,817,soja,2021-09-10,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+817,818,Queijo,2020-10-06,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+818,819,milho,2020-10-10,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+819,820,Carnes,2023-03-17,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+820,821,eletrônicos,2021-09-15,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+821,822,café,2021-08-15,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+822,823,soja,2021-10-02,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+823,824,café,2021-07-31,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+824,825,eletrônicos,2020-04-06,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+825,826,Carnes,2023-05-14,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+826,827,Queijo,2023-04-08,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+827,828,glp,2024-11-12,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+828,829,Queijo,2024-05-04,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+829,830,café,2025-07-16,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+830,831,Carnes,2022-02-12,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+831,832,Gasolina,2022-10-02,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+832,833,soja,2020-04-13,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+833,834,soja,2024-05-25,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+834,835,glp,2020-12-12,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+835,836,Carnes,2022-07-17,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+836,837,soja,2023-05-02,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+837,838,Gasolina,2023-09-11,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+838,839,Disel,2024-08-03,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+839,840,glp,2023-03-07,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+840,841,café,2021-02-18,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+841,842,Disel,2023-11-08,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+842,843,Gasolina,2023-05-07,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+843,844,Disel,2025-09-11,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+844,845,Gasolina,2022-07-26,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+845,846,Gasolina,2022-03-27,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+846,847,Queijo,2023-09-09,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+847,848,glp,2024-07-29,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+848,849,Carnes,2021-05-09,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+849,850,Gasolina,2025-10-16,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+850,851,Disel,2024-09-02,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+851,852,Gasolina,2021-08-08,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+852,853,soja,2021-02-11,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+853,854,Carnes,2023-05-22,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+854,855,Carnes,2021-12-11,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+855,856,Queijo,2023-02-10,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+856,857,Gasolina,2024-04-30,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+857,858,Carnes,2022-03-18,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+858,859,milho,2023-12-10,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+859,860,Queijo,2024-04-11,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+860,861,Queijo,2025-10-31,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+861,862,Gasolina,2020-09-23,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+862,863,milho,2023-04-22,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+863,864,eletrônicos,2024-08-02,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+864,865,glp,2025-09-06,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+865,866,milho,2023-05-08,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+866,867,milho,2020-04-20,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+867,868,Gasolina,2025-05-16,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+868,869,eletrônicos,2024-12-16,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+869,870,Gasolina,2021-11-18,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+870,871,Disel,2020-05-30,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+871,872,soja,2021-10-16,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+872,873,Queijo,2021-06-21,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+873,874,café,2024-12-01,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+874,875,Queijo,2020-10-07,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+875,876,Carnes,2020-01-14,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+876,877,milho,2020-07-23,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+877,878,milho,2022-05-01,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+878,879,Queijo,2020-09-27,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+879,880,eletrônicos,2020-05-10,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+880,881,café,2022-05-05,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+881,882,Queijo,2025-10-17,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+882,883,Carnes,2020-11-01,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+883,884,Disel,2021-05-18,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+884,885,milho,2022-04-20,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+885,886,Carnes,2023-06-28,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+886,887,glp,2020-04-17,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+887,888,eletrônicos,2024-11-27,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+888,889,eletrônicos,2020-09-26,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+889,890,Carnes,2023-12-09,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+890,891,café,2023-09-17,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+891,892,Disel,2023-07-05,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+892,893,milho,2025-08-19,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+893,894,soja,2025-09-21,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+894,895,Gasolina,2025-04-22,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+895,896,Carnes,2025-08-10,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+896,897,Carnes,2021-01-13,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+897,898,milho,2025-07-16,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+898,899,Gasolina,2021-05-20,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+899,900,Carnes,2021-08-21,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+900,901,glp,2020-07-30,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+901,902,Carnes,2023-04-16,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+902,903,soja,2023-03-10,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+903,904,café,2021-05-29,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+904,905,glp,2022-06-04,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+905,906,café,2022-11-27,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+906,907,milho,2020-01-13,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+907,908,Carnes,2020-10-30,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+908,909,milho,2023-01-30,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+909,910,milho,2025-03-17,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+910,911,soja,2020-10-21,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+911,912,glp,2021-08-08,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+912,913,eletrônicos,2021-07-15,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+913,914,Queijo,2020-03-15,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+914,915,Carnes,2022-01-17,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+915,916,Queijo,2020-06-21,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+916,917,Gasolina,2024-10-13,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+917,918,Queijo,2020-12-06,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+918,919,glp,2023-07-31,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+919,920,milho,2020-08-13,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+920,921,Gasolina,2021-01-01,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+921,922,Carnes,2025-02-19,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+922,923,Carnes,2024-05-07,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+923,924,Carnes,2025-05-18,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+924,925,Gasolina,2023-08-26,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+925,926,milho,2024-04-05,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+926,927,Disel,2022-08-26,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+927,928,Queijo,2021-12-13,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+928,929,eletrônicos,2020-01-11,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+929,930,Carnes,2023-09-05,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+930,931,soja,2021-02-05,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+931,932,café,2025-12-08,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+932,933,Carnes,2025-01-26,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+933,934,Disel,2021-04-28,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+934,935,soja,2023-08-01,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+935,936,Carnes,2021-05-22,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+936,937,milho,2025-03-19,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+937,938,café,2022-10-22,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+938,939,milho,2022-04-06,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+939,940,Gasolina,2020-12-24,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+940,941,Gasolina,2025-11-10,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+941,942,Disel,2020-12-17,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+942,943,glp,2024-03-14,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+943,944,Disel,2024-11-01,Atrasado,Uberlândia-Uberaba,110,194.85714285714286,495.0
+944,945,Disel,2021-08-06,A tempo,Uberlândia-Catalão,190,336.57142857142856,950.0
+945,946,café,2024-06-23,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+946,947,glp,2022-06-22,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+947,948,eletrônicos,2022-11-07,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+948,949,Carnes,2025-01-26,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+949,950,eletrônicos,2023-03-05,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+950,951,glp,2021-09-15,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+951,952,Carnes,2025-01-05,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+952,953,eletrônicos,2020-03-18,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+953,954,glp,2021-07-09,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+954,955,café,2020-04-07,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+955,956,Disel,2025-05-06,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+956,957,Disel,2022-01-26,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+957,958,Queijo,2022-01-12,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+958,959,Gasolina,2025-08-12,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+959,960,Disel,2023-04-21,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+960,961,café,2024-07-23,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+961,962,eletrônicos,2023-07-23,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+962,963,Gasolina,2022-11-07,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+963,964,eletrônicos,2023-06-11,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+964,965,café,2025-07-11,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+965,966,Disel,2020-10-01,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+966,967,glp,2022-04-04,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+967,968,Queijo,2020-04-10,Atrasado,Uberlândia-São_Paulo,585,1036.2857142857142,2632.5
+968,969,café,2025-01-26,Atrasado,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1350.0
+969,970,soja,2025-12-30,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+970,971,Disel,2021-05-24,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+971,972,eletrônicos,2025-04-29,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+972,973,soja,2020-08-17,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+973,974,eletrônicos,2023-03-23,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+974,975,Carnes,2020-01-15,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+975,976,eletrônicos,2022-09-29,Atrasado,Uberlândia-Araguari,30,53.142857142857146,135.0
+976,977,Carnes,2023-08-25,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
+977,978,Disel,2025-09-05,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+978,979,milho,2024-01-30,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+979,980,Disel,2023-02-01,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+980,981,Queijo,2022-09-11,A tempo,Uberlândia-São_Paulo,585,1036.2857142857142,2925.0
+981,982,Gasolina,2022-09-14,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+982,983,café,2024-02-18,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+983,984,soja,2023-04-06,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+984,985,glp,2020-01-28,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+985,986,Carnes,2024-10-01,A tempo,Uberlândia-Uberaba,110,194.85714285714286,550.0
+986,987,Disel,2024-11-19,A tempo,Uberlândia-Goiânia,330,584.5714285714287,1650.0
+987,988,Gasolina,2025-04-29,Atrasado,Uberlândia-Belo_Horizonte,540,956.5714285714286,2430.0
+988,989,glp,2024-09-02,A tempo,Uberlândia-Belo_Horizonte,540,956.5714285714286,2700.0
+989,990,glp,2024-08-24,Atrasado,Uberlândia-Catalão,190,336.57142857142856,855.0
+990,991,café,2021-10-03,A tempo,Uberlândia-Ribeirão_Preto,300,531.4285714285714,1500.0
+991,992,café,2025-07-03,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+992,993,soja,2022-11-03,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+993,994,Gasolina,2024-04-17,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+994,995,Gasolina,2022-10-25,Atrasado,Uberlândia-Goiânia,330,584.5714285714287,1485.0
+995,996,Disel,2023-01-09,A tempo,Uberlândia-Brasília,430,761.7142857142858,2150.0
+996,997,Queijo,2021-06-22,A tempo,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4925.0
+997,998,soja,2022-05-06,Atrasado,Uberlândia-Rio_de_Janeiro,985,1744.8571428571431,4432.5
+998,999,eletrônicos,2025-02-12,A tempo,Uberlândia-Araguari,30,53.142857142857146,150.0
+999,1000,eletrônicos,2025-01-24,Atrasado,Uberlândia-Brasília,430,761.7142857142858,1935.0
